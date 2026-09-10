@@ -1,0 +1,151 @@
+customer_id,first_name,last_name,email,city,join_date,membership,region
+1,Thomas,Jones,customer1@email.com,Chicago,2023-12-26,Premium,Central
+2,Jennifer,Lopez,customer2@email.com,Dallas,2023-04-26,Premium,South
+3,Robert,Johnson,customer3@email.com,Los Angeles,2023-08-09,Gold,West
+4,Linda,Rodriguez,customer4@email.com,Houston,2023-07-05,Premium,South
+5,Mary,Davis,customer5@email.com,Houston,2023-08-20,Basic,South
+6,Jessica,Williams,customer6@email.com,Los Angeles,2023-02-11,Basic,West
+7,Karen,Davis,customer7@email.com,Chicago,2023-12-22,Basic,Central
+8,Barbara,Rodriguez,customer8@email.com,Chicago,2023-09-17,Premium,Central
+9,Jennifer,Williams,customer9@email.com,New York,2023-11-26,Basic,East
+10,James,Williams,customer10@email.com,Philadelphia,2023-12-07,Basic,East
+11,Patricia,Johnson,customer11@email.com,San Diego,2023-10-25,Basic,West
+12,Thomas,Davis,customer12@email.com,Chicago,2023-10-25,Basic,Central
+13,Richard,Martinez,customer13@email.com,Phoenix,2023-10-27,Basic,West
+14,Sarah,Smith,customer14@email.com,New York,2023-03-11,Basic,East
+15,Robert,Davis,customer15@email.com,Austin,2023-05-08,Gold,South
+16,John,Miller,customer16@email.com,San Antonio,2023-08-04,Premium,South
+17,David,Miller,customer17@email.com,Austin,2023-12-11,Premium,South
+18,Richard,Williams,customer18@email.com,New York,2023-11-01,,East
+19,Patricia,Smith,customer19@email.com,Dallas,2023-01-15,Basic,South
+20,Susan,Brown,customer20@email.com,San Diego,2023-04-06,Basic,West
+21,David,Rodriguez,customer21@email.com,San Antonio,2023-08-22,Gold,South
+22,Elizabeth,Jones,customer22@email.com,Austin,2023-12-25,Premium,South
+23,Charles,Smith,customer23@email.com,San Antonio,2023-09-14,Premium,South
+24,Sarah,Jones,customer24@email.com,Phoenix,2023-02-26,Basic,West
+25,Jennifer,Gonzalez,customer25@email.com,Phoenix,2023-01-18,Gold,West
+26,Joseph,Davis,customer26@email.com,Phoenix,2023-05-20,Premium,West
+27,Elizabeth,Davis,customer27@email.com,New York,2023-04-09,Gold,East
+28,Robert,Jones,customer28@email.com,San Diego,2023-11-24,Gold,West
+29,Robert,Lopez,customer29@email.com,New York,2023-06-01,Basic,East
+30,Elizabeth,Rodriguez,customer30@email.com,Houston,2023-02-06,Basic,South
+31,Robert,Smith,customer31@email.com,Dallas,2023-11-02,Basic,South
+32,John,Brown,customer32@email.com,Dallas,2023-10-21,Basic,South
+33,Jennifer,Williams,customer33@email.com,Phoenix,2023-05-06,Gold,West
+34,Patricia,Johnson,customer34@email.com,Houston,2023-06-22,Basic,South
+35,Sarah,Davis,customer35@email.com,Chicago,2023-02-14,Gold,Central
+36,William,Miller,customer36@email.com,Chicago,2023-10-14,,Central
+37,Thomas,Rodriguez,customer37@email.com,Phoenix,2023-03-06,Premium,West
+38,Richard,Johnson,customer38@email.com,Austin,2023-08-12,Premium,South
+39,Joseph,Brown,customer39@email.com,New York,2023-11-12,Basic,East
+40,Karen,Garcia,customer40@email.com,Phoenix,2023-01-17,Basic,West
+41,Thomas,Hernandez,customer41@email.com,Philadelphia,2023-11-13,Gold,East
+42,Richard,Williams,customer42@email.com,San Antonio,2023-02-11,,South
+43,Jessica,Davis,customer43@email.com,Dallas,2023-12-12,Basic,South
+44,Patricia,Williams,customer44@email.com,Chicago,2023-06-09,Premium,Central
+45,Robert,Lopez,customer45@email.com,Los Angeles,2023-04-03,Basic,West
+46,Robert,Gonzalez,customer46@email.com,Chicago,2023-12-16,Basic,Central
+47,William,Gonzalez,customer47@email.com,Dallas,2023-08-27,Basic,South
+48,Thomas,Johnson,customer48@email.com,San Antonio,2023-10-25,Premium,South
+49,Richard,Gonzalez,customer49@email.com,Dallas,2023-12-11,Gold,South
+50,Mary,Gonzalez,customer50@email.com,Los Angeles,2023-05-25,Basic,West
+51,Richard,Williams,customer51@email.com,Phoenix,2023-02-19,Basic,West
+52,Charles,Hernandez,customer52@email.com,Houston,2023-07-23,Basic,South
+53,John,Garcia,customer53@email.com,Los Angeles,2023-06-22,Basic,West
+54,Elizabeth,Johnson,customer54@email.com,Dallas,2023-02-26,Gold,South
+55,Mary,Davis,customer55@email.com,Dallas,2023-06-04,Gold,South
+56,Richard,Smith,customer56@email.com,Philadelphia,2023-12-19,Gold,East
+57,Charles,Miller,customer57@email.com,Philadelphia,2023-11-02,Premium,East
+58,Thomas,Johnson,customer58@email.com,San Diego,2023-01-11,Basic,West
+59,Susan,Martinez,customer59@email.com,Philadelphia,2023-11-21,Premium,East
+60,Barbara,Lopez,customer60@email.com,New York,2023-02-02,Basic,East
+61,Barbara,Garcia,customer61@email.com,Houston,2023-07-08,Basic,South
+62,David,Lopez,customer62@email.com,San Antonio,2023-10-08,Basic,South
+63,Michael,Johnson,customer63@email.com,Los Angeles,2023-04-15,Basic,West
+64,Patricia,Johnson,customer64@email.com,Dallas,2023-01-11,Basic,South
+65,Charles,Martinez,customer65@email.com,San Diego,2023-07-17,Premium,West
+66,James,Gonzalez,customer66@email.com,San Diego,2023-11-20,Basic,West
+67,John,Davis,customer67@email.com,San Antonio,2023-08-18,Premium,South
+68,Richard,Lopez,customer68@email.com,Houston,2023-06-22,Gold,South
+69,Joseph,Johnson,customer69@email.com,Los Angeles,2023-12-09,Basic,West
+70,Mary,Miller,customer70@email.com,Chicago,2023-05-10,Basic,Central
+71,David,Williams,customer71@email.com,Philadelphia,2023-04-05,Premium,East
+72,Patricia,Davis,customer72@email.com,Phoenix,2023-12-28,Gold,West
+73,Charles,Miller,customer73@email.com,San Diego,2023-10-11,,West
+74,Thomas,Davis,customer74@email.com,Philadelphia,2023-05-24,Gold,East
+75,John,Miller,customer75@email.com,Philadelphia,2023-10-28,Premium,East
+76,Sarah,Hernandez,customer76@email.com,New York,2023-08-02,Gold,East
+77,Linda,Garcia,customer77@email.com,Houston,2023-07-08,Premium,South
+78,Charles,Gonzalez,customer78@email.com,Phoenix,2023-11-22,Premium,West
+79,Robert,Miller,customer79@email.com,Chicago,2023-05-27,Basic,Central
+80,Michael,Jones,customer80@email.com,Dallas,2023-09-03,Basic,South
+81,Linda,Miller,customer81@email.com,New York,2023-12-13,Premium,East
+82,Robert,Smith,customer82@email.com,Philadelphia,2023-10-04,Premium,East
+83,Thomas,Smith,customer83@email.com,Philadelphia,2023-09-22,Basic,East
+84,Robert,Rodriguez,customer84@email.com,Austin,2023-08-23,Premium,South
+85,Patricia,Jones,customer85@email.com,Phoenix,2023-11-02,Basic,West
+86,Charles,Gonzalez,customer86@email.com,Phoenix,2023-03-01,Basic,West
+87,Mary,Jones,customer87@email.com,Austin,2023-09-07,Basic,South
+88,David,Williams,customer88@email.com,Phoenix,2023-01-03,Basic,West
+89,Richard,Jones,customer89@email.com,Philadelphia,2023-04-20,Basic,East
+90,Joseph,Williams,customer90@email.com,San Diego,2023-05-03,Premium,West
+91,Barbara,Rodriguez,customer91@email.com,Los Angeles,2023-03-17,Basic,West
+92,David,Rodriguez,customer92@email.com,Philadelphia,2023-07-27,Basic,East
+93,Michael,Garcia,customer93@email.com,New York,2023-10-14,Basic,East
+94,Robert,Smith,customer94@email.com,Houston,2023-01-18,Basic,South
+95,Thomas,Miller,customer95@email.com,Austin,2023-04-20,Basic,South
+96,Karen,Miller,customer96@email.com,Chicago,2023-05-27,Basic,Central
+97,William,Martinez,customer97@email.com,Dallas,2023-02-04,Gold,South
+98,Susan,Martinez,customer98@email.com,Chicago,2023-01-18,Gold,Central
+99,Barbara,Brown,customer99@email.com,Philadelphia,2023-01-26,Basic,East
+100,Jennifer,Davis,customer100@email.com,New York,2023-10-13,Premium,East
+101,Thomas,Garcia,customer101@email.com,Philadelphia,2023-04-20,Basic,East
+102,Charles,Brown,customer102@email.com,Houston,2023-07-10,Premium,South
+103,Charles,Brown,customer103@email.com,San Diego,2023-11-11,Basic,West
+104,Jessica,Johnson,customer104@email.com,Dallas,2023-09-09,Gold,South
+105,Barbara,Johnson,customer105@email.com,Houston,2023-05-26,Gold,South
+106,Barbara,Lopez,customer106@email.com,Austin,2023-01-17,Premium,South
+107,Karen,Brown,customer107@email.com,Austin,2023-06-02,Basic,South
+108,Jennifer,Jones,customer108@email.com,Philadelphia,2023-08-13,Premium,East
+109,Patricia,Davis,customer109@email.com,New York,2023-09-04,Gold,East
+110,Jennifer,Garcia,customer110@email.com,Houston,2023-05-11,Basic,South
+111,David,Brown,customer111@email.com,San Antonio,2023-08-19,Basic,South
+112,James,Gonzalez,customer112@email.com,New York,2023-05-03,Premium,East
+113,Joseph,Hernandez,customer113@email.com,San Diego,2023-12-26,Basic,West
+114,David,Miller,customer114@email.com,Austin,2023-03-19,Premium,South
+115,Charles,Davis,customer115@email.com,Philadelphia,2023-12-07,Gold,East
+116,Sarah,Johnson,customer116@email.com,Phoenix,2023-07-07,Gold,West
+117,Thomas,Lopez,customer117@email.com,Austin,2023-10-08,Gold,South
+118,Charles,Miller,customer118@email.com,Dallas,2023-05-21,,South
+119,Susan,Johnson,customer119@email.com,Los Angeles,2023-04-23,Gold,West
+120,Sarah,Johnson,customer120@email.com,Phoenix,2023-10-20,Basic,West
+121,Charles,Davis,customer121@email.com,Philadelphia,2023-02-20,Basic,East
+122,Joseph,Johnson,customer122@email.com,San Antonio,2023-08-09,Premium,South
+123,Joseph,Hernandez,customer123@email.com,Phoenix,2023-03-16,Premium,West
+124,Patricia,Rodriguez,customer124@email.com,Dallas,2023-07-14,Gold,South
+125,Michael,Lopez,customer125@email.com,New York,2023-12-14,Premium,East
+126,Richard,Smith,customer126@email.com,San Antonio,2023-09-27,Gold,South
+127,John,Rodriguez,customer127@email.com,Austin,2023-04-26,Basic,South
+128,Jessica,Smith,customer128@email.com,San Antonio,2023-03-05,Basic,South
+129,William,Martinez,customer129@email.com,Houston,2023-01-03,Basic,South
+130,Linda,Gonzalez,customer130@email.com,Dallas,2023-08-27,Basic,South
+131,Karen,Martinez,customer131@email.com,Phoenix,2023-08-04,Basic,West
+132,Richard,Johnson,customer132@email.com,Houston,2023-02-24,Basic,South
+133,Thomas,Garcia,customer133@email.com,San Antonio,2023-08-10,Premium,South
+134,Thomas,Garcia,customer134@email.com,Houston,2023-04-03,Gold,South
+135,Thomas,Smith,customer135@email.com,Chicago,2023-02-25,Gold,Central
+136,James,Miller,customer136@email.com,Dallas,2023-01-23,Premium,South
+137,Linda,Davis,customer137@email.com,San Diego,2023-05-24,Basic,West
+138,Charles,Johnson,customer138@email.com,New York,2023-04-23,Premium,East
+139,Jennifer,Davis,customer139@email.com,San Antonio,2023-05-21,Basic,South
+140,John,Rodriguez,customer140@email.com,Dallas,2023-09-25,Basic,South
+141,Robert,Garcia,customer141@email.com,San Diego,2023-09-28,Basic,West
+142,Richard,Jones,customer142@email.com,San Diego,2023-06-06,Basic,West
+143,Joseph,Lopez,customer143@email.com,Philadelphia,2023-05-25,Gold,East
+144,Susan,Rodriguez,customer144@email.com,Houston,2023-10-08,Premium,South
+145,Jessica,Gonzalez,customer145@email.com,San Diego,2023-07-07,Basic,West
+146,Sarah,Lopez,customer146@email.com,Chicago,2023-06-21,Basic,Central
+147,David,Hernandez,customer147@email.com,Dallas,2023-04-03,Basic,South
+148,John,Rodriguez,customer148@email.com,Los Angeles,2023-03-22,Premium,West
+149,Elizabeth,Smith,customer149@email.com,Los Angeles,2023-04-28,Gold,West
+150,Elizabeth,Hernandez,customer150@email.com,San Antonio,2023-12-06,Basic,South

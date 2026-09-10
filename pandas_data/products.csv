@@ -1,0 +1,26 @@
+product_id,product_name,category,price,cost
+101,"Laptop Pro 15""",Laptops,1299,800
+102,"Laptop Air 13""",Laptops,999,650
+103,Desktop Tower,Desktops,899,550
+104,Desktop Mini,Desktops,599,380
+105,Wireless Mouse,Accessories,49,20
+106,Gaming Mouse,Accessories,79,35
+107,Mechanical Keyboard,Accessories,129,60
+108,Wireless Keyboard,Accessories,89,40
+109,"Monitor 27""",Monitors,349,200
+110,"Monitor 32""",Monitors,449,270
+111,"Monitor 24""",Monitors,249,140
+112,Webcam HD,Accessories,69,30
+113,Webcam 4K,Accessories,149,70
+114,USB Hub,Accessories,29,12
+115,USB-C Adapter,Accessories,39,18
+116,Headphones Pro,Audio,299,150
+117,Headphones Basic,Audio,79,35
+118,Earbuds Wireless,Audio,149,70
+119,Earbuds Sport,Audio,99,45
+120,"Tablet 10""",Tablets,499,300
+121,"Tablet 12""",Tablets,699,420
+122,Smartphone Case,Accessories,25,10
+123,Screen Protector,Accessories,15,5
+124,Laptop Stand,Accessories,59,25
+125,Monitor Arm,Accessories,89,40
